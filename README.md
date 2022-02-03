@@ -1,6 +1,6 @@
 ---
 title: Ktor
-description: A basic Kotlin Ktor server
+description: A basic Kotlin Ktor serverr
 tags:
   - ktor
   - kotlin
